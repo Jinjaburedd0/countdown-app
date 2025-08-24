@@ -42,3 +42,5 @@ body, html, app-root {
   height: 100vh;
   pointer-events: none;
 }
+
+/* Removed "extractCss" option as per the suggestion */
