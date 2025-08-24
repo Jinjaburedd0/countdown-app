@@ -94,5 +94,10 @@
   "defaultProject": "countdown-app",
   "cli": {
     "analytics": false
-  }
+  },
+  "exclude": [
+    "node_modules/",
+    ".cache/",
+    "dist/"
+  ]
 }
